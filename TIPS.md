@@ -15,6 +15,7 @@ or Diode de commutation 1N4148 SOD-100, T4 123 SMD SOD, 1N4148WS SODree IN4148, 
 
 Similar with BOM:
 https://github.com/foostan/crkbd/blob/main/corne-chocolate/doc/buildguide_en.md
+New link: https://github.com/foostan/crkbd/blob/main/docs/corne-chocolate/buildguide_en.md
 
 Keycap ideas:
 https://www.reddit.com/r/ErgoMechKeyboards/comments/spc8u2/my_first_build_chocofi_nicenano_removable_tenting/
@@ -23,5 +24,5 @@ Layout:
 https://github.com/Shahabaz-Bagwan/zmk-config
 
 Help:
-https://kriscables.com/chocofi/
-
+Base BOM from prebuilt: https://kriscables.com/chocofi/
+Ben valleck guide: https://www.youtube.com/watch?v=UKfeJrRIcxw&t=534s
