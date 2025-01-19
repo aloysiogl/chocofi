@@ -1,0 +1,7 @@
+- Cut the micro legs (the last one), B+ and B- should be without legs
+- Cut the micro mounts and the OLED mounts (pay attention to the sizes)
+- Solder the rest of the diodes and sockets
+- Solder the reset button
+- Solder the OLED jumpers
+- Solder the mounts (the micro mount should match the top plate)
+- Solder the micro (should match the reset button, looks like it's upside down)
